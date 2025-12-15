@@ -11,17 +11,17 @@ Credit for original spring mechanism idea goes to @kriswillcode.
 License for the files in this directory are under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## BOM
-(4) M3x12 SHCS
+- (4) M3x12 SHCS
 
 ## Recommended print settings
 
-Material: ABS or PLA
-Layer height: 0.2mm
-Extrusion width: 0.4mm
-Infill percentage: 40%
-Infill type: grid, gyroid, honeycomb, triangle, or cubic
-Wall count: 4
-Solid top/bottom layers: 5
+- Material: ABS or PLA
+- Layer height: 0.2mm
+- Extrusion width: 0.4mm
+- Infill percentage: 40%
+- Infill type: grid, gyroid, honeycomb, triangle, or cubic
+- Wall count: 4
+- Solid top/bottom layers: 5
 
 ## Assembly
 Refer to included manual, or:
