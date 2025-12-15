@@ -5,7 +5,7 @@ A fidget toy that has two printed clicky switches
 and a set of smooth rolling gears that uses VORON
 BOM hardware to assemble.
 
-Credit for original spring mechanism idea goes to @kriswillcode.
+Credit for original spring mechanism idea goes to [@kriswillcode](https://www.printables.com/@kriswillcode).
 
 ## License
 License for the files in this directory are under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
