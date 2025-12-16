@@ -1,5 +1,7 @@
 # VORON Fidget Toy
 
+![Fidget](Images/fidget_hero_small.png)
+
 ## Overview
 A fidget toy that has two printed clicky switches
 and a set of smooth rolling gears that uses VORON
